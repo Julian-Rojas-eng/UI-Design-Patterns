@@ -1,0 +1,7 @@
+co\edu\udistrital\UIDesignPatterns\Ecommerce\model\Product.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\model\ProductRepository.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\controller\NavigationController.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\view\ProductListView.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\view\TopMenuView.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\view\BreadcrumbsView.class
+co\edu\udistrital\UIDesignPatterns\Ecommerce\app\EcommerceApp.class
